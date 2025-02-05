@@ -69,10 +69,10 @@ Junior software developer passionate about AI and full-stack development. Curren
 - Management of integrated news and donations system
 
 ### 🌍 Languages
-- Spanish (Native)
-- English (Upper Intermediate)
-- French (Lower Intermediate)
-- Chinese (Basic)
+- Spanish C2
+- English B2
+- French B1
+- Chinese HSK1
 
 ### 🔥 Soft Skills
 ✅ Empathy and Social Awareness  
