@@ -90,8 +90,8 @@ Junior software developer.Currently specializing in process optimization and cre
   <a href="https://www.linkedin.com/in/heily-m-ajila-tandazo-616967346/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="heilymadelayajtan@icloud.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:heilymadelayajtan@icloud.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
