@@ -1,4 +1,7 @@
-![Banner]("C:\Users\heily\OneDrive\Escritorio\banner github.jpg")
+# [Heily Madelay Ajila](https://github.com/HeilyMadelay-hub) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+<p align="center">
+<img src="URL_DEL_BANNER" alt="Banner" style="width: 100%; height: auto;">
+</p>
 
 ## 👋 Hi! I'm Heily Madelay Ajila
 
