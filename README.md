@@ -14,7 +14,7 @@ Desarrolladora junior apasionada por la IA y el desarrollo full stack. Me especi
 - **Sistemas Operativos:** Linux (Ubuntu), Windows
 - **Otros:** Android Java, Odoo, Git, GitHub
 
-### 💻 En qué soy buena 👨💻:
+### 💻 En qué soy buena :
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
