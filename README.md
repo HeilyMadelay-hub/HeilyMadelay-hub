@@ -1,20 +1,42 @@
-## 👋 ¡Hola! Soy Heily Madelay Ajila
+![Banner]("C:\Users\heily\OneDrive\Escritorio\banner github.jpg")
 
-### 💻 Sobre mí
-Desarrolladora junior apasionada por la IA y el desarrollo full stack. Me especializo en la optimización de procesos y en la creación de soluciones tecnológicas innovadoras. Busco un entorno colaborativo para aplicar y expandir mis habilidades técnicas y creativas.
+## 👋 Hi! I'm Heily Madelay Ajila
 
-### 🎓 Educación
-📚 **Grado Superior en Desarrollo de Aplicaciones Multiplataforma**  
-📍 *IES Vista Alegre (Septiembre 2023 - Junio 2025)*
+### 💻 About Me
+Junior software developer passionate about AI and full-stack development. Currently specializing in process optimization and creating innovative technological solutions. Focused on AI projects and modern web development.
 
-### 🛠️ Habilidades Técnicas
-- **Lenguajes de Programación:** JavaScript, Java, Python, C, VB.NET
-- **Tecnologías Web:** HTML, CSS, XHTML, XML, JSON, XQuery, XSLT
-- **Bases de Datos:** SQLite, Oracle, MySQL, PL/SQL, Microsoft Access
-- **Sistemas Operativos:** Linux (Ubuntu), Windows
-- **Otros:** Android Java, Odoo, Git, GitHub
+### 🎓 Education
+📚 **Higher Degree in Multiplatform Application Development**  
+📍 *IES Vista Alegre (September 2023 - June 2025)*
+## Technical Expertise 🛠️
 
-### 💻 En qué soy buena :
+### Programming Languages
+- Java | Python | JavaScript | C | VB.NET
+
+### Web Technologies
+- HTML/CSS
+- XML/XHTML
+- JSON/XQuery/XSLT
+- RESTful APIs
+
+### Database Systems
+- MySQL
+- Oracle
+- SQLite
+- PL/SQL
+- Microsoft Access
+
+### Operating Systems
+- Linux (Ubuntu)
+- Windows
+
+### Tools & Platforms
+- Git & GitHub
+- Android Development
+- Odoo ERP
+- Development Tools
+
+### 💻 Skills:
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -26,42 +48,42 @@ Desarrolladora junior apasionada por la IA y el desarrollo full stack. Me especi
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
 </p>
 
-### 📊 Lenguajes más usados:
+### 📊 Most Used Languages:
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HeilyMadelay-hub&layout=compact&theme=dark)
 
-### 📊 Estadísticas de GitHub
+### 📊 GitHub Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HeilyMadelay-hub&theme=default)
 
-### 🚀 Proyectos Destacados
-#### **📌 DevDiary, Mi plataforma educativa digital** *(Enero 2023 - Presente)*
-- Desarrollo de contenido técnico y programación para TikTok.
-- Creación de recursos didácticos para estudiantes de programación.
-- Implementación de estrategias de crecimiento y engagement.
-- Optimización de métricas de retención de usuarios.
+### 🚀 Featured Projects
+#### **📌 DevDiary, Digital Educational Platform** *(January 2023 - Present)*
+- Development of technical content and programming for TikTok
+- Creation of educational resources for programming students
+- Implementation of growth and engagement strategies
+- Optimization of user retention metrics
 
-#### **📌 UnityInAction, Plataforma de Gestión Social** *(Enero 2023 - Presente)*
-- Desarrollo de plataforma social con Java, Firebase y Material Design.
-- Implementación de sistema de autenticación multi-rol.
-- Integración de notificaciones push y geolocalización.
-- Optimización de base de datos y rendimiento de aplicación.
-- Gestión de sistema integrado de noticias y donaciones.
+#### **📌 UnityInAction, Social Management Platform** *(January 2023 - Present)*
+- Development of social platform using Java, Firebase and Material Design
+- Implementation of multi-role authentication system
+- Integration of push notifications and geolocation
+- Database optimization and application performance
+- Management of integrated news and donations system
 
-### 🌍 Idiomas
-- Español (Nativo)
-- Inglés (Intermedio alto)
-- Francés (Intermedio bajo)
-- Chino (Básico)
+### 🌍 Languages
+- Spanish (Native)
+- English (Upper Intermediate)
+- French (Lower Intermediate)
+- Chinese (Basic)
 
-### 🔥 Habilidades Personales
-✅ Empatía y Conciencia Social  
-✅ Innovación y Creatividad  
-✅ Habilidades de Comunicación  
-✅ Pensamiento Estratégico  
-✅ Adaptabilidad e Iniciativa  
-✅ Liderazgo y Organización  
+### 🔥 Soft Skills
+✅ Empathy and Social Awareness  
+✅ Innovation and Creativity  
+✅ Communication Skills  
+✅ Strategic Thinking  
+✅ Adaptability and Initiative  
+✅ Leadership and Organization  
 
-### 📫 Conéctate conmigo 
+### 📫 Connect with me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Heily-blue?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/heily-m-ajila-tandazo-616967346)
 
 ---
-⭐ ¡Explora mis repositorios y proyectos en GitHub!
+⭐ Explore my repositories and projects on GitHub!
