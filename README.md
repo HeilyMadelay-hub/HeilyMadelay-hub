@@ -87,14 +87,12 @@ Junior software developer.Currently specializing in process optimization and cre
 
 ### 📫 Connect with me 
 <p align="center">
-  <a href="http://www.linkedin.com/in/heily-m-ajila-tandazo-616967346">
-    <img src="https://img.shields.io/badge/LinkedIn-Heily-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  <a href="tu-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:heilymadelay@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Gmail"/>
+  <a href="mailto:tu-email">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
 ---
 ⭐ Explore my repositories and projects on GitHub!
