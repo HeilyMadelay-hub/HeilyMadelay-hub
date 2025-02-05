@@ -5,15 +5,6 @@
   <img src="./banner%20github.jpg" alt="Banner" width="100%">
 </p>
 
-<div align="center">
-  <a href="http://www.linkedin.com/in/heily-m-ajila-tandazo-616967346">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:heilymadelay@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
-</div>
-
 ### 💻 About Me
 Junior software developer passionate about AI and full-stack development. Currently specializing in process optimization and creating innovative technological solutions. Focused on AI projects and modern web development.
 
