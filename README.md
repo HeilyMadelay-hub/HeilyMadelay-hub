@@ -14,7 +14,7 @@ Desarrolladora junior apasionada por la IA y el desarrollo full stack. Me especi
 - **Sistemas Operativos:** Linux (Ubuntu), Windows
 - **Otros:** Android Java, Odoo, Git, GitHub
 
-### 💻 En qué soy bueno 👨💻:
+### 💻 En qué soy buena 👨💻:
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -30,7 +30,7 @@ Desarrolladora junior apasionada por la IA y el desarrollo full stack. Me especi
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HeilyMadelay-hub&layout=compact&theme=dark)
 
 ### 📊 Estadísticas de GitHub
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeilyMadelay-hub&show_icons=true&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HeilyMadelay-hub&theme=default)
 
 ### 🚀 Proyectos Destacados
 #### **📌 DevDiary, Mi plataforma educativa digital** *(Enero 2023 - Presente)*
