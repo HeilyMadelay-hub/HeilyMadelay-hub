@@ -4,24 +4,6 @@
 Desarrolladora junior apasionada por la IA y el desarrollo full stack. Me especializo en la optimización de procesos y en la creación de soluciones tecnológicas innovadoras. Busco un entorno colaborativo para aplicar y expandir mis habilidades técnicas y creativas.
 
 ### 🎓 Educación
-Expandir
-## 👋 ¡Hola! Soy Heily Madelay Ajil.txt
-4 KB
-aqui lo tienes
-espera xd
-no lo pongas
-HM — ayer a las 22:25
-Vale
-Espero
-:3
-rui.demon — ayer a las 22:26
-se me olvido decirte diane es god me caes bien
-## 👋 ¡Hola! Soy Heily Madelay Ajila
-
-### 💻 Sobre mí
-Desarrolladora junior apasionada por la IA y el desarrollo full stack. Me especializo en la optimización de procesos y en la creación de soluciones tecnológicas innovadoras. Busco un entorno colaborativo para aplicar y expandir mis habilidades técnicas y creativas.
-
-### 🎓 Educación
 📚 **Grado Superior en Desarrollo de Aplicaciones Multiplataforma**  
 📍 *IES Vista Alegre (Septiembre 2023 - Junio 2025)*
 
