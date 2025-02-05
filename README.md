@@ -1,6 +1,7 @@
-# [Heily Madelay Ajila](https://github.com/HeilyMadelay-hub) <img src=""C:\Users\heily\OneDrive\Escritorio\banner github.jpg"" width="25">
+# [Heily Madelay Ajila](https://github.com/HeilyMadelay-hub)
+
 <p align="center">
-<img src="URL_DEL_BANNER" alt="Banner" style="width: 100%; height: auto;">
+  <img src="./banner%20github.jpg" alt="Banner" width="100%">
 </p>
 
 ### 💻 About Me
