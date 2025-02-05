@@ -6,7 +6,7 @@
 </p>
 
 ### 💻 About Me
-Junior software developer Currently specializing in process optimization and creating innovative technological solutions.
+Junior software developer.Currently specializing in process optimization and creating innovative technological solutions.
 
 ### 🎓 Education
 📚 **Higher Degree in Multiplatform Application Development**  
