@@ -74,7 +74,6 @@ Junior software developer.Currently specializing in process optimization and cre
 - Spanish C2
 - English B2
 - French B1
-- Chinese HSK1
 
 ### 🔥 Soft Skills
 ✅ Empathy and Social Awareness  
