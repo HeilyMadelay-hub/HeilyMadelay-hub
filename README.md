@@ -57,12 +57,6 @@ Junior software developer.Currently specializing in process optimization and cre
 ![](https://github-readme-stats.vercel.app/api?username=HeilyMadelay-hub&theme=bear&show_icons=true&hide_border=true&count_private=true)
 
 ### 🚀 Featured Projects
-#### **📌 DevDiary, Digital Educational Platform** *(January 2023 - Present)*
-- Development of technical content and programming for TikTok
-- Creation of educational resources for programming students
-- Implementation of growth and engagement strategies
-- Optimization of user retention metrics
-
 #### **📌 UnityInAction, Social Management Platform** *(January 2023 - Present)*
 - Development of social platform using Java, Firebase and Material Design
 - Implementation of multi-role authentication system
