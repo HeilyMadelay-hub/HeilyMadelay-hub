@@ -51,7 +51,7 @@ Junior software developer.Currently specializing in process optimization and cre
 </p>
 
 ### 📊 Most Used Languages:
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HeilyMadelay-hub&layout=compact&theme=dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HeilyMadelay-hub&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=HeilyMadelay-hub&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
