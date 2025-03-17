@@ -2,7 +2,7 @@
 ### AI & Cybersecurity Enthusiast | Backend Developer | Turning Ideas into Secure and Scalable Code ⚡
 
 <p align="center">
-  <img src="./banner%20github.jpg" alt="Banner" width="100%">
+  <img src="./fondo.png" alt="Banner" width="100%">
 </p>
 
 ### 💻 About Me
