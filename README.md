@@ -54,7 +54,7 @@ Junior software developer.Currently specializing in process optimization and cre
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HeilyMadelay-hub&layout=compact&theme=dark)
 
 ### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=HeilyMadelay-hub&theme=bear&show_icons=true&hide_border=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=HeilyMadelay-hub&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ### 🚀 Featured Projects
 #### **📌 UnityInAction, Social Management Platform** *(January 2023 - Present)*
