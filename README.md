@@ -1,5 +1,5 @@
 # > Hello World! I'm Heily Madelay 👩‍💻
-### AI & Cybersecurity Enthusiast | Backend Developer | Turning Ideas into Secure and Scalable Code ⚡
+### AI Enthusiast | Backend Developer | Turning Ideas into Secure and Scalable Code ⚡
 
 <p align="center">
   <img src="./fondo.png" alt="Banner" width="100%">
