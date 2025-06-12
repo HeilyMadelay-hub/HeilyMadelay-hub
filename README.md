@@ -1,9 +1,7 @@
 # > Hello World! I'm Heily Madelay 👩‍💻
 ### AI Enthusiast | Backend Developer | Turning Ideas into Secure and Scalable Code ⚡
 
-<p align="center">
-  <img src="./fondo.png" alt="Banner" width="100%">
-</p>
+
 
 ### 💻 About Me
 Junior software developer.Currently specializing in process optimization and creating innovative technological solutions.
@@ -14,30 +12,19 @@ Junior software developer.Currently specializing in process optimization and cre
 ## Technical Expertise 🛠️
 
 ### Programming Languages
-- Java | Python | JavaScript | C | VB.NET
+
 
 ### Web Technologies
-- HTML/CSS
-- XML/XHTML
-- JSON/XQuery/XSLT
-- RESTful APIs
 
 ### Database Systems
-- MySQL
-- Oracle
-- SQLite
-- PL/SQL
-- Microsoft Access
+
 
 ### Operating Systems
 - Linux (Ubuntu)
 - Windows
 
 ### Tools & Platforms
-- Git & GitHub
-- Android Development
-- Odoo ERP
-- Development Tools
+
 
 ### 💻 Some of Mine Skills:
 <p align="center">
@@ -51,31 +38,17 @@ Junior software developer.Currently specializing in process optimization and cre
 </p>
 
 ### 📊 Most Used Languages:
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HeilyMadelay-hub&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 
 ### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=HeilyMadelay-hub&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 
 ### 🚀 Featured Projects
-#### **📌 UnityInAction, Social Management Platform** *(January 2023 - Present)*
-- Development of social platform using Java, Firebase and Material Design
-- Implementation of multi-role authentication system
-- Integration of push notifications and geolocation
-- Database optimization and application performance
-- Management of integrated news and donations system
 
 ### 🌍 Languages
-- Spanish C2
-- English B2
-- French B1
 
 ### 🔥 Soft Skills
-✅ Empathy and Social Awareness  
-✅ Innovation and Creativity  
-✅ Communication Skills  
-✅ Strategic Thinking  
-✅ Adaptability and Initiative  
-✅ Leadership and Organization  
+
 
 ### 📫 Connect with me 
 <p align="center">
