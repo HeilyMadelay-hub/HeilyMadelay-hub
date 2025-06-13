@@ -6,9 +6,6 @@
 ### 💻 About Me
 Junior software developer.Currently specializing in process optimization and creating innovative technological solutions.
 
-### 🎓 Education
-📚 **Higher Degree in Multiplatform Application Development**  
-📍 *IES Vista Alegre (September 2023 - June 2025)*
 ## Technical Expertise 🛠️
 
 ### Programming Languages
