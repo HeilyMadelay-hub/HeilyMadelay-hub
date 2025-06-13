@@ -1,7 +1,7 @@
 # > Hello World! I'm Heily Madelay 👩‍💻
 ### AI Enthusiast | Backend Developer | Turning Ideas into Secure and Scalable Code ⚡
 
-
+![Heily Madelay](./assets/BANNER.png)
 
 ### 💻 About Me
 Junior software developer.Currently specializing in process optimization and creating innovative technological solutions.
