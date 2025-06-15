@@ -13,8 +13,8 @@ Backend developer with a passion for **AI, process automation, and problem-solvi
 
 ---
 
-## 💼 Current Role
-**ATISA (March 2025 - Present)**  
+## 💼 Experience
+**ATISA (March 2025 - June 2025)**  
 *Backend Developer & AI Automation Specialist*  
 🔹 Developed RAG-based AI chatbot (Docker + Ollama + Streamlit)  
 🔹 Reduced manual legal workflows by 90%  
