@@ -57,8 +57,8 @@ Backend developer with a passion for **AI, process automation, and problem-solvi
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=heilymadelay&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heilymadelay&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HeilyMadelay-hub&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeilyMadelay-hub&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
 </p>
 
 ---
