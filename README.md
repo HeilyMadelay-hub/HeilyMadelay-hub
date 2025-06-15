@@ -284,25 +284,9 @@
 
 ![Spanish](https://img.shields.io/badge/Español-Nativo-success?style=for-the-badge)
 ![English](https://img.shields.io/badge/English-B2-blue?style=for-the-badge)
-![French](https://img.shields.io/badge/Français-B2-red?style=for-the-badge)
-![Code](https://img.shields.io/badge/Code-Fluent-brightgreen?style=for-the-badge)
+![French](https://img.shields.io/badge/Français-B1-red?style=for-the-badge)
 
 </div>
-
----
-
-<div align="center">
-
-## 🔥 **CURRENT MISSIONS** 🔥
-
-</div>
-
-### 🎯 **2025 OBJECTIVES**
-- 🚀 **Complete DAM Degree** with honors specialization in AI
-- ⚡ **Expand RAG Systems** expertise with advanced vector databases  
-- 🤖 **Deploy Personal AI SaaS** platform leveraging proven automation skills
-- 🏆 **Contribute to Open Source** AI/automation projects
-- 📈 **Scale Automation Solutions** to save 1000+ hours annually
 
 ---
 
