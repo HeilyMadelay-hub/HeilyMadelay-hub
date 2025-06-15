@@ -1,7 +1,7 @@
 <h1 align="center">⚡ Heily Madelay Tandazo ⚡</h1>
 <h3 align="center">AI-Powered Backend Developer | Automation Specialist | Document Intelligence</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&center=true&vCenter=true&color=58A6FF&width=700&lines=Turning+manual+tasks+into+intelligent+automations;RAG+systems+%7C+Legal+AI+%7C+FastAPI+%7C+Gemini;520%2B+hours+saved+per+year+%7C+Problem+crusher+mindset" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&center=true&vCenter=true&color=58A6FF&width=700&lines=RAG+systems+%7C+Legal+AI+%7C+520%2B+hours+saved;From+manual+to+automated+in+minutes" alt="Typing SVG" />
 </p>
 
 ---
