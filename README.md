@@ -321,7 +321,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heilymajtan/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heilymadelayajtan@icloud.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://heilymadelay.dev)
-[![Phone](https://img.shields.io/badge/Phone-%2B34%20640--359--233-green?style=for-the-badge&logo=phone&logoColor=white)](tel:+34640359233)
 
 </div>
 
