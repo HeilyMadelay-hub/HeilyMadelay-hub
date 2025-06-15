@@ -323,11 +323,3 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://heilymadelay.dev)
 
 </div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=heilymadelay&color=blueviolet&style=for-the-badge&label=AUTOMATION+SEEKERS)
-
-</div>
