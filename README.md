@@ -267,7 +267,7 @@
 
 <div align="center">
 
-![Status](https://img.shields.io/badge/Status-IN_PROGRESS-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-FINISHED-blue?style=for-the-badge)
 ![Specialization](https://img.shields.io/badge/Specialization-Backend%20%2B%20AI-purple?style=for-the-badge)
 
 </div>
