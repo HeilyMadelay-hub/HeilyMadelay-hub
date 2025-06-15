@@ -135,7 +135,7 @@
 
 </div>
 
-### 🤖 **[SISTEMA DE GESTIÓN DOCUMENTAL CON IA]** - *Enterprise Document Intelligence*
+### 🤖 **[SISTEMA DE GESTIÓN DOCUMENTAL CON IA]** - *Personal Project: Enterprise Document Intelligence*
 
 <div align="center">
 
@@ -147,7 +147,7 @@
 </div>
 
 ```python
-🚀 IMPACT: Transforms enterprise documents into conversational AI interface
+🚀 PERSONAL PROJECT: Enterprise documents → conversational AI interface
 🧠 INNOVATION: Full RAG system with ChromaDB vectorization
 ⚡ PERFORMANCE: Processes PDFs up to 100MB in real-time
 🛡️ SECURITY: JWT authentication with refresh token system
@@ -171,7 +171,7 @@
 
 ---
 
-### ⚖️ **[BOCM AUTOMATIZADO]** - *Legal Intelligence Automation*
+### ⚖️ **[BOCM AUTOMATIZADO]** - *Personal Project: Legal Intelligence Automation*
 
 <div align="center">
 
@@ -183,7 +183,7 @@
 </div>
 
 ```bash
-⚖️ LEGAL IMPACT: Automated BOCM collective agreement monitoring
+⚖️ PERSONAL PROJECT: Automated BOCM collective agreement monitoring
 ⚡ EFFICIENCY: From 2-4 hours manual work to <1 minute automation  
 🎯 ACCURACY: 100 critical legal changes detected automatically
 💰 ROI: 520+ hours saved annually for legal departments
@@ -207,31 +207,31 @@
 
 ---
 
-### 🤖 **[AI CHATBOT WITH RAG]** - *Conversational AI Platform*
+### 🤖 **[CHATBOT CON IA - ATISA]** - *Professional Project: RAG Implementation*
 
 <div align="center">
 
-![Status](https://img.shields.io/badge/Status-ENTERPRISE_READY-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-PROFESSIONAL_PROJECT-orange?style=for-the-badge)
 ![Performance](https://img.shields.io/badge/Test_Time_Reduction-30%25-green?style=for-the-badge)
 ![Security](https://img.shields.io/badge/HTTPS_Secured-✓-brightgreen?style=for-the-badge)
 
 </div>
 
 ```javascript
-🧠 AI ARCHITECTURE: Full chatbot system with RAG implementation
-🏗️ INFRASTRUCTURE: Docker + Ollama local deployment
-⚡ PERFORMANCE: 30% testing time reduction achieved
+🧠 PROFESSIONAL PROJECT: RAG chatbot developed during ATISA internship
+🏗️ INFRASTRUCTURE: Docker + Ollama local deployment architecture
+⚡ PERFORMANCE: 30% testing time reduction achieved in production
 🛡️ SECURITY: HTTPS secure connections implemented
 ```
 
-**🛠️ Multi-Framework Expertise:** `Streamlit` `Flask` `FastAPI` `Flutter`
+**🛠️ Multi-Framework Exploration:** `Streamlit` `Flask` `FastAPI` `Flutter`
 
-**🎯 Technical Highlights:**
-- **RAG Integration:** Retrieval-Augmented Generation with local models
-- **Containerized Architecture:** Docker + Ollama for scalable deployment
-- **Multi-Framework Development:** Explored Streamlit, Flask, FastAPI, Flutter
-- **Database Architecture:** Custom database design for conversational context
-- **Local Environment Setup:** Production-ready local development environment
+**🎯 Professional Development Highlights:**
+- **RAG System Design:** Architected chatbot database and integration
+- **Local Environment Setup:** Configured Docker + Ollama development environment
+- **Multi-Framework Evaluation:** Explored Streamlit, Flask, FastAPI, and Flutter options
+- **Production Integration:** Implemented secure HTTPS connections
+- **Team Collaboration:** Developed as part of ATISA's internal automation projects
 
 ---
 
@@ -402,13 +402,5 @@ console.log("Ready to automate your business processes? 🚀");
 ### 💥 **"TURNING HOURS INTO MINUTES, COMPLEXITY INTO SIMPLICITY"** 💥
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=%F0%9F%9A%80+Got+manual+processes%3F+Let's+automate+them!;%E2%9A%A1+520%2B+hours+saved+and+counting...;%F0%9F%A4%96+AI+%2B+Backend+%2B+Automation+%3D+Your+Solution" alt="Call to Action" />
-
-</div>
-
----
-
-<div align="center">
-
-## ⭐ **READY TO TRANSFORM YOUR PROCESSES? LET'S BUILD INTELLIGENT AUTOMATION TOGETHER!** ⭐
 
 </div>
