@@ -1,182 +1,414 @@
-# 👋 ¡Hola! Soy Heily Madelay
-
 <div align="center">
-  <img src="./BANNER.jpeg" alt="Heily Madelay Banner" width="100%"/>
-</div>
 
-## 🚀 Backend Developer | Especialista en Soluciones Escalables y Seguras
+# ⚡ HEILY MADELAY TANDAZO ⚡
+### 🤖 AI-POWERED BACKEND DEVELOPER | AUTOMATION SPECIALIST | PROBLEM CRUSHER
 
-> Transformo ideas en código robusto. Especializada en arquitecturas backend, optimización de procesos y desarrollo de APIs seguras que escalan.
+<img src="./BANNER.jpeg" alt="Heily Madelay Banner" width="100%"/>
 
----
+```ascii
+    ██╗  ██╗███████╗██╗██╗  ██╗   ██╗    ███╗   ███╗ █████╗ ██████╗ ███████╗██╗      █████╗ ██╗   ██╗
+    ██║  ██║██╔════╝██║██║  ╚██╗ ██╔╝    ████╗ ████║██╔══██╗██╔══██╗██╔════╝██║     ██╔══██╗╚██╗ ██╔╝
+    ███████║█████╗  ██║██║   ╚████╔╝     ██╔████╔██║███████║██║  ██║█████╗  ██║     ███████║ ╚████╔╝ 
+    ██╔══██║██╔══╝  ██║██║    ╚██╔╝      ██║╚██╔╝██║██╔══██║██║  ██║██╔══╝  ██║     ██╔══██║  ╚██╔╝  
+    ██║  ██║███████╗██║███████╗██║       ██║ ╚═╝ ██║██║  ██║██████╔╝███████╗███████╗██║  ██║   ██║   
+    ╚═╝  ╚═╝╚══════╝╚═╝╚══════╝╚═╝       ╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝   ╚═╝   
+```
 
-## 🎯 Sobre Mí
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D8FF&center=true&vCenter=true&width=800&lines=From+Hours+to+Minutes+with+AI+%7C+Automation+Specialist;520%2B+Hours+Saved+Annually+Through+Smart+Solutions;Backend+Developer+%7C+RAG+Systems+%7C+Process+Optimizer;Building+Tomorrow's+Intelligent+Applications+Today" alt="Typing SVG" />
 
-🔧 **Junior Backend Developer** con pasión por crear soluciones tecnológicas innovadoras  
-⚡ **Especialización:** Optimización de procesos y arquitecturas escalables  
-🛡️ **Enfoque:** Seguridad y rendimiento en cada línea de código  
-📈 **Objetivo:** Construir sistemas que impacten positivamente a los usuarios  
-
----
-
-## 🛠️ Stack Tecnológico
-
-### 💻 Lenguajes de Programación
-- **Java** - Desarrollo backend robusto y aplicaciones empresariales
-- **Python** - Automatización, análisis de datos y desarrollo web
-- **JavaScript** - Desarrollo fullstack y scripting
-
-### 🌐 Tecnologías Web
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+)
-- **Backend:** APIs RESTful, Microservicios
-- **Frameworks:** Spring Boot (Java), Flask/Django (Python)
-
-### 🗄️ Bases de Datos
-- **MySQL** - Diseño de esquemas relacionales optimizados
-- **Firebase** - Bases de datos en tiempo real y autenticación
-- **MongoDB** - Bases de datos NoSQL para aplicaciones escalables
-
-### 🖥️ Sistemas y Herramientas
-- **OS:** Linux (Ubuntu), Windows
-- **Control de Versiones:** Git, GitHub
-- **Cloud:** Firebase, AWS (básico)
-- **Metodologías:** Agile, SCRUM
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 🎯 **IMPACT STATEMENT**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heilymadelay&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heilymadelay&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heilymadelay&theme=tokyonight" alt="GitHub Streak"/>
-</div>
+> ### 💡 "Transforming manual processes into intelligent automation"
+> #### 🚀 **PROVEN TRACK RECORD:** 520+ hours saved annually through AI-powered solutions
+> #### ⚡ **SPECIALIZATION:** RAG Systems, Document Intelligence, Legal Tech Automation
 
----
-
-## 🚀 Proyectos Destacados
-
-### 🏥 **Sistema de Gestión Hospitalaria**
-- **Descripción:** API REST completa para gestión de pacientes, citas y expedientes médicos
-- **Tecnologías:** Java, Spring Boot, MySQL, JWT Authentication
-- **Características:** Autenticación segura, CRUD completo, validaciones robustas
-- **Estado:** En desarrollo
-- 🔗 [Ver Repositorio](#) | 🌐 [Demo en vivo](#)
-
-### 📊 **Dashboard de Analytics en Tiempo Real**
-- **Descripción:** Sistema de monitoreo de métricas empresariales con visualizaciones interactivas
-- **Tecnologías:** Python, Flask, Firebase, Chart.js
-- **Características:** WebSockets, gráficos dinámicos, alertas automáticas
-- **Estado:** Completado
-- 🔗 [Ver Repositorio](#) | 🌐 [Demo en vivo](#)
-
-### 🛒 **E-commerce Backend API**
-- **Descripción:** API escalable para tienda online con gestión de inventario y pagos
-- **Tecnologías:** Java, Spring Boot, MySQL, Stripe API
-- **Características:** Arquitectura de microservicios, cache inteligente, documentación Swagger
-- **Estado:** MVP listo
-- 🔗 [Ver Repositorio](#) | 📖 [Documentación API](#)
-
----
-
-## 📈 Actualmente Aprendiendo
-
-- 🔥 **Microservicios con Spring Cloud**
-- ☁️ **AWS Solutions Architecture**
-- 🐳 **Docker & Kubernetes**
-- 🔐 **Seguridad Avanzada en APIs**
-
----
-
-## 🎯 Objetivos 2025
-
-- [ ] Certificación AWS Solutions Architect
-- [ ] Contribuir a 3 proyectos open source
-- [ ] Publicar serie de tutoriales sobre seguridad en APIs
-- [ ] Desarrollar MVP de aplicación SaaS propia
-
----
-
-## 💼 Habilidades Profesionales
-
-### 🔧 **Técnicas**
-- Diseño de APIs RESTful escalables
-- Optimización de consultas SQL
-- Implementación de patrones de diseño
-- Testing automatizado (JUnit, PyTest)
-- Seguridad en aplicaciones web
-
-### 🤝 **Interpersonales**
-- Resolución creativa de problemas
-- Trabajo en equipo multicultural
-- Comunicación técnica efectiva
-- Adaptabilidad a nuevas tecnologías
-- Mentoría de desarrolladores junior
-
----
-
-## 🌍 Idiomas
-
-- **Español:** Nativo
-- **Inglés:** Intermedio-Alto (B2)
-- **Código:** Fluido 😄
-
----
-
-## 📈 Contribuciones Recientes
-
-<!--START_SECTION:activity-->
-- 🎯 Optimicé consultas SQL reduciendo tiempo de respuesta en 40%
-- 🔐 Implementé autenticación JWT con refresh tokens
-- 📊 Creé dashboard de métricas en tiempo real
-- 🐛 Resolví 15+ issues en proyectos open source
-<!--END_SECTION:activity-->
-
----
-
-## 📫 ¡Conectemos!
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/heilymajtan/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:heilymadelayajtan@icloud.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/heilymadelay" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://heilymadelay.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
-  </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=heilymadelay&color=blueviolet&style=for-the-badge&label=Visitas+al+perfil"/>
+
+## 🏢 **PROFESSIONAL EXPERIENCE** 🏢
+
 </div>
 
+### 🤖 **ATISA - Backend Developer & AI Automation Specialist**
+#### 📅 *March 2025 - June 2025 | Madrid, Spain*
+
 <div align="center">
-  <h3>💡 "El código es poesía, y cada bug es una oportunidad para crear algo mejor"</h3>
-  <p><em>¿Tienes un proyecto interesante? ¡Hablemos!</em></p>
+
+![Status](https://img.shields.io/badge/Position-Active-brightgreen?style=for-the-badge)
+![Impact](https://img.shields.io/badge/Hours_Saved-520%2B-gold?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Scripts_Created-70%2B-blue?style=for-the-badge)
+
+</div>
+
+**🎯 Key Achievements:**
+- 🚀 **AI Chatbot Architecture:** Designed full-stack RAG system with Docker, Ollama, and Streamlit
+- ⚡ **30% Testing Time Reduction:** Implemented secure HTTPS connections and optimized workflows  
+- 📊 **Legal Automation Revolution:** Transformed 2-hour manual processes into 10-minute automated workflows
+- 🌍 **National Scale Impact:** Contributed to 70+ regional scripts for nationwide coverage
+- 🔍 **Database Analysis:** Analyzed complex data flows using HeidiSQL and Workbench in PHP environments
+
+---
+
+<div align="center">
+
+## ⚔️ **TECH ARSENAL** ⚔️
+
+</div>
+
+### 🔥 **AI & AUTOMATION MASTERY**
+<div align="center">
+
+| Technology | Expertise | Real Projects | Business Impact |
+|:----------:|:---------:|:-------------:|:---------------:|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ⭐⭐⭐⭐⭐ | 5+ Production | 🚀 520h/year saved |
+| ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) | ⭐⭐⭐⭐⭐ | 3+ Apps | ⚡ 1000+ concurrent users |
+| ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white) | ⭐⭐⭐⭐ | RAG Systems | 🧠 Document Intelligence |
+| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ⭐⭐⭐⭐ | All Projects | 🏗️ Production Ready |
+
+</div>
+
+### 🛠️ **COMPLETE TECH STACK**
+<div align="center">
+
+**Backend & APIs:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+**AI & Machine Learning:**
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
+**Databases & Storage:**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=database&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Frontend & Mobile:**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**DevOps & Tools:**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
 </div>
 
 ---
 
-⭐ **¿Te gusta mi trabajo? ¡Dale una estrella a mis repositorios!** ⭐
+<div align="center">
+
+## 📊 **BATTLE STATS** 📊
+
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heilymadelay&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heilymadelay&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heilymadelay&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=f85149&currStreakLabel=c9d1d9" alt="GitHub Streak"/>
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 **LEGENDARY PROJECTS** 🏆
+
+</div>
+
+### 🤖 **[SISTEMA DE GESTIÓN DOCUMENTAL CON IA]** - *Enterprise Document Intelligence*
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/Status-PRODUCTION_READY-brightgreen?style=for-the-badge)
+![Files](https://img.shields.io/badge/File_Size-100MB_Support-blue?style=for-the-badge)
+![Concurrent](https://img.shields.io/badge/Concurrent_Users-1000%2B-red?style=for-the-badge)
+![Endpoints](https://img.shields.io/badge/REST_Endpoints-60%2B-purple?style=for-the-badge)
+
+</div>
+
+```python
+🚀 IMPACT: Transforms enterprise documents into conversational AI interface
+🧠 INNOVATION: Full RAG system with ChromaDB vectorization
+⚡ PERFORMANCE: Processes PDFs up to 100MB in real-time
+🛡️ SECURITY: JWT authentication with refresh token system
+```
+
+**🛠️ Tech Arsenal:** `Python` `FastAPI` `Flutter Web` `PostgreSQL` `Supabase` `ChromaDB` `Google Gemini` `Docker`
+
+**🎯 Revolutionary Features:**
+- **Modular Architecture:** Production-ready with layer separation
+- **AI Conversational Interface:** Natural language document querying  
+- **Scalable Backend:** 1000+ concurrent connections supported
+- **Complete Admin Panel:** Full CRUD operations and user management
+- **Cloud-Ready Deployment:** Docker Compose + AWS/GCP configuration
+
+**📊 Technical Achievements:**
+- 60+ documented REST endpoints
+- Responsive Flutter Web interface
+- Dockerized ChromaDB for vector operations
+- JWT authentication with refresh tokens
+- End-to-end testing coverage
+
+---
+
+### ⚖️ **[BOCM AUTOMATIZADO]** - *Legal Intelligence Automation*
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/Status-LIVE_PRODUCTION-success?style=for-the-badge)
+![Time_Saved](https://img.shields.io/badge/Time_Reduction-99%25-gold?style=for-the-badge)
+![Annual_Impact](https://img.shields.io/badge/Hours_Saved-520%2B/year-brightgreen?style=for-the-badge)
+![Detections](https://img.shields.io/badge/Critical_Changes-100%2B-red?style=for-the-badge)
+
+</div>
+
+```bash
+⚖️ LEGAL IMPACT: Automated BOCM collective agreement monitoring
+⚡ EFFICIENCY: From 2-4 hours manual work to <1 minute automation  
+🎯 ACCURACY: 100 critical legal changes detected automatically
+💰 ROI: 520+ hours saved annually for legal departments
+```
+
+**🛠️ Tech Stack:** `Python` `Web Scraping` `PyPDF2` `pdfplumber` `MySQL` `Regex Processing`
+
+**🎯 Game-Changing Capabilities:**
+- **Intelligent Web Scraping:** Daily monitoring of official bulletins
+- **Advanced PDF Processing:** Text extraction from complex legal documents
+- **Pattern Recognition:** Regex-based change detection algorithms
+- **Database Integration:** MySQL storage for historical tracking
+- **JSON Report Generation:** API-ready output for system integration
+- **Terminal Interface:** Production-ready command-line operation
+
+**📈 Measurable Business Impact:**
+- **99% Time Reduction:** 2-4 hours → <1 minute processing
+- **100% Automation:** Zero manual intervention required
+- **520+ Hours/Year Saved:** Massive ROI for legal teams
+- **100+ Critical Detections:** Preventing legal compliance issues
+
+---
+
+### 🤖 **[AI CHATBOT WITH RAG]** - *Conversational AI Platform*
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/Status-ENTERPRISE_READY-orange?style=for-the-badge)
+![Performance](https://img.shields.io/badge/Test_Time_Reduction-30%25-green?style=for-the-badge)
+![Security](https://img.shields.io/badge/HTTPS_Secured-✓-brightgreen?style=for-the-badge)
+
+</div>
+
+```javascript
+🧠 AI ARCHITECTURE: Full chatbot system with RAG implementation
+🏗️ INFRASTRUCTURE: Docker + Ollama local deployment
+⚡ PERFORMANCE: 30% testing time reduction achieved
+🛡️ SECURITY: HTTPS secure connections implemented
+```
+
+**🛠️ Multi-Framework Expertise:** `Streamlit` `Flask` `FastAPI` `Flutter`
+
+**🎯 Technical Highlights:**
+- **RAG Integration:** Retrieval-Augmented Generation with local models
+- **Containerized Architecture:** Docker + Ollama for scalable deployment
+- **Multi-Framework Development:** Explored Streamlit, Flask, FastAPI, Flutter
+- **Database Architecture:** Custom database design for conversational context
+- **Local Environment Setup:** Production-ready local development environment
+
+---
+
+<div align="center">
+
+## 🎖️ **REAL ACHIEVEMENTS** 🎖️
+
+</div>
+
+<div align="center">
+
+| Achievement | Real Impact | Technology |
+|:----------:|:-----------:|:----------:|
+| ⚡ **Automation Master** | 520+ hours saved annually | Python + AI |
+| 🎯 **Efficiency Expert** | 99% time reduction (2h→1min) | Web Scraping + ML |
+| 🤖 **AI Architect** | RAG systems in production | Gemini + ChromaDB |
+| 🏗️ **Infrastructure Builder** | Docker + Cloud deployments | DevOps + Scaling |
+| 📊 **Data Processor** | 100MB+ file processing | PDF + Vector DBs |
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎓 **EDUCATION & CERTIFICATIONS** 🎓
+
+</div>
+
+### 🏫 **Grado Superior en Desarrollo de Aplicaciones Multiplataforma**
+#### 📍 *IES Vista Alegre, Madrid | September 2023 - June 2025*
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/Status-IN_PROGRESS-blue?style=for-the-badge)
+![Specialization](https://img.shields.io/badge/Specialization-Backend%20%2B%20AI-purple?style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌍 **LANGUAGES** 🌍
+
+</div>
+
+<div align="center">
+
+![Spanish](https://img.shields.io/badge/Español-Nativo-success?style=for-the-badge)
+![English](https://img.shields.io/badge/English-B2-blue?style=for-the-badge)
+![French](https://img.shields.io/badge/Français-B2-red?style=for-the-badge)
+![Code](https://img.shields.io/badge/Code-Fluent-brightgreen?style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔥 **CURRENT MISSIONS** 🔥
+
+</div>
+
+### 🎯 **2025 OBJECTIVES**
+- 🚀 **Complete DAM Degree** with honors specialization in AI
+- ⚡ **Expand RAG Systems** expertise with advanced vector databases  
+- 🤖 **Build Personal AI SaaS** platform leveraging proven automation skills
+- 🏆 **Contribute to Open Source** AI/automation projects
+- 📈 **Scale Automation Solutions** to save 1000+ hours annually
+
+---
+
+<div align="center">
+
+## ⚡ **PERFORMANCE METRICS** ⚡
+
+</div>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heilymadelay&theme=radical)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heilymadelay&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=heilymadelay&theme=radical)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=heilymadelay&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=heilymadelay&theme=radical)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 **CONNECT WITH THE AUTOMATION EXPERT** 🌐
+
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heilymajtan/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heilymadelayajtan@icloud.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://heilymadelay.dev)
+[![Phone](https://img.shields.io/badge/Phone-%2B34%20640--359--233-green?style=for-the-badge&logo=phone&logoColor=white)](tel:+34640359233)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎮 **DEVELOPER SECRETS** 🎮
+
+<details>
+<summary>🔮 My proven automation philosophy</summary>
+
+```python
+class AutomationPhilosophy:
+    def __init__(self):
+        self.core_belief = "If it takes more than 10 minutes manually, automate it"
+        self.proven_results = "520+ hours saved annually"
+        self.specialization = "AI-powered process optimization"
+    
+    def transform_business_process(self, manual_hours):
+        if manual_hours > 2:
+            return f"🚀 Can reduce to <1 minute with AI automation"
+        return f"⚡ Already optimized, let's scale it!"
+
+# Real impact: ATISA projects prove this philosophy works!
+```
+
+</details>
+
+<details>
+<summary>⚡ Stack that powers my automation magic</summary>
+
+```javascript
+const heilyTechStack = {
+    automation: {
+        languages: ["Python", "Java"],
+        frameworks: ["FastAPI", "Spring Boot"],
+        ai_models: ["Google Gemini", "OpenAI", "Ollama"],
+        databases: ["PostgreSQL", "ChromaDB", "MySQL"],
+        deployment: ["Docker", "Supabase", "AWS-ready"]
+    },
+    proven_impact: {
+        time_saved: "520+ hours annually",
+        efficiency_gain: "99% (2h → 1min)",
+        concurrent_users: "1000+",
+        file_processing: "100MB+ PDFs"
+    }
+};
+
+console.log("Ready to automate your business processes? 🚀");
+```
+
+</details>
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=heilymadelay&color=blueviolet&style=for-the-badge&label=AUTOMATION+SEEKERS)
+
+### 💥 **"TURNING HOURS INTO MINUTES, COMPLEXITY INTO SIMPLICITY"** 💥
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=%F0%9F%9A%80+Got+manual+processes%3F+Let's+automate+them!;%E2%9A%A1+520%2B+hours+saved+and+counting...;%F0%9F%A4%96+AI+%2B+Backend+%2B+Automation+%3D+Your+Solution" alt="Call to Action" />
+
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ **READY TO TRANSFORM YOUR PROCESSES? LET'S BUILD INTELLIGENT AUTOMATION TOGETHER!** ⭐
+
+</div>
