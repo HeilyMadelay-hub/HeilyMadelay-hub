@@ -312,7 +312,7 @@
 
 <div align="center">
 
-## 🌐 **CONNECT WITH THE AUTOMATION EXPERT** 🌐
+## 🌐 **CONNECT WITH ME** 🌐
 
 </div>
 
