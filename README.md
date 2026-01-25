@@ -2,7 +2,7 @@
 
 ## 👋 Hi, I'm Heily
 
-Backend Developer specialized in **.NET** and **Python**.  
+Full Stack Developer specialized in **.NET** and **Python**.  
 I design APIs, clean architectures, and AI-powered systems that solve real business problems.  
 I work with teams that value **quality, security, and reliable deployment**.
 
