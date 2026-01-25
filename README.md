@@ -113,9 +113,9 @@ Full-stack academic management platform with gamification.
 
 **Backend:** C#, .NET, Python, Node.js, TypeScript  
 **Databases:** PostgreSQL, MongoDB, SQL Server, ChromaDB  
-**AI:** RAG, OpenAI, Gemini, LangChain, MediaPipe  
+**AI:** RAG, OpenAI, Gemini, LangChain, MediaPipe, TensorFlow.js
 **Real-Time:** WebSockets, SignalR, Socket.io  
-**DevOps:** Docker, AWS, Azure, GitHub  
+**DevOps:** Docker, AWS, Azure  
 **Frontend:** React, Angular
 
 ---
