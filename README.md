@@ -12,8 +12,8 @@ I design production-ready APIs, clean architectures, and AI-powered systems that
 
 I build **backend systems that work in production**, not just locally:
 
-- Scalable REST APIs (Clean Architecture, DDD)
 - AI integration in real products (RAG, embeddings, LLMs)
+- Scalable REST APIs (Clean Architecture, DDD)
 - Zero-downtime database migrations
 - Process automation that saves hours of manual work
 - Real-time systems with WebSockets and concurrent transactions
