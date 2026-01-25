@@ -122,7 +122,7 @@ Full-stack academic management platform with gamification.
 
 ## 🎓 Education
 
-**Master's in Full Stack Development & Cloud Architectures** — Tajamar (Oct 2025 - Jun 2026)  
+**Master's in Full Stack Development & Cloud Architectures** — Tajamar (in progress)  
 **Higher Technician in Multi-Platform Application Development** — IES Vista Alegre (2023-2025)
 
 ### Certifications
