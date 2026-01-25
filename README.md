@@ -274,11 +274,3 @@ Full-stack academic management platform with gamification.
 ✅ **Startups/Scale-ups** that value ownership and autonomy
 
 **Open to:** Remote, Hybrid (Madrid), Contract/Freelance projects
-
----
-
-> *"The best code is the one you don't notice. It works, scales, and someone else can maintain it."*
-
----
-
-**Built with ❤️ and lots of ☕**  
