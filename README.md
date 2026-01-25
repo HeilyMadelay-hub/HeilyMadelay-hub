@@ -141,11 +141,15 @@ Full-stack academic management platform with gamification.
 
 ---
 
-## 💡 Looking for
+## 💡 Looking for:
 
-**Full Stack Engineer roles** where quality, product, and real impact matter.  
-**Remote teams** or **startups/scale-ups** with strong engineering culture.
+**Full Stack Engineer roles** (backend-focused) where code quality, product thinking, and real business impact matter.
 
-**Open to:** Remote · Hybrid (Madrid) · Contract/Freelance · Presencial
+**Open to:**
+- 🌍 Remote teams
+- 🚀 Startups & scale-ups with strong engineering culture
+- 🏢 Large enterprises building complex, high-scale systems
+
+**Available for:** Remote · Hybrid (Madrid) · On-site · Contract / Freelance
 
 ---
