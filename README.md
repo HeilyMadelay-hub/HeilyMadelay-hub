@@ -153,3 +153,6 @@ Full-stack academic management platform with gamification.
 **Available for:** Remote · Hybrid (Madrid) · On-site · Contract / Freelance
 
 ---
+
+💬 Want to talk about backend architecture, AI in production, or scaling systems?
+Feel free to reach out.
