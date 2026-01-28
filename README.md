@@ -111,22 +111,12 @@ Full-stack academic management platform with gamification.
 
 ## 💻 Tech Stack
 
-### **Backend**
-![.NET](https://img.shields.io/badge/.NET-D4A5A5?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-D4A5A5?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-D4A5A5?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-D4A5A5?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-D4A5A5?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### **AI & Data**
-![OpenAI](https://img.shields.io/badge/OpenAI-D4A5A5?style=for-the-badge&logo=openai&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-D4A5A5?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-D4A5A5?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### **Cloud & DevOps**
-![Azure](https://img.shields.io/badge/Azure-D4A5A5?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-D4A5A5?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-D4A5A5?style=for-the-badge&logo=docker&logoColor=white)
+**Backend:** C#, .NET, Python, Node.js, TypeScript  
+**Databases:** PostgreSQL, MongoDB, SQL Server, ChromaDB  
+**AI:** RAG, OpenAI, Gemini, LangChain, MediaPipe, TensorFlow.js
+**Real-Time:** WebSockets, SignalR, Socket.io  
+**DevOps:** Docker, AWS, Azure  
+**Frontend:** React, Angular
 
 ---
 
