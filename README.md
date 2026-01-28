@@ -149,8 +149,9 @@ Full-stack academic management platform with gamification.
 - 🌍 Remote teams
 - 🚀 Startups & scale-ups with strong engineering culture
 - 🏢 Large enterprises building complex, high-scale systems
+- ✈️ Relocation: I am fully available to relocate for the right opportunity.
 
-**Available for:** Remote · Hybrid (Madrid) · On-site · Contract / Freelance
+**Available for:** Remote · Hybrid (Madrid) · On-site  · Relocation · Contract / Freelance
 
 ---
 
