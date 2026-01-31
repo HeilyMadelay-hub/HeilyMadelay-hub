@@ -86,19 +86,6 @@ Computer vision system with AI for real-time sign language recognition.
 
 ---
 
-### 🎓 **Business School Management System**
-Full-stack academic management platform with gamification.
-
-- AI-powered club recommendation engine
-- Complete gamification system
-- Personalized dashboards by role
-
-**Stack:** ASP.NET Core MVC · Entity Framework · SQL Server · Docker
-
-→ [View project](https://github.com/HeilyMadelay-hub/Master-Proyects/tree/business-school-aspnet-core-mvc-identity)
-
----
-
 ## 📈 Proven Impact
 
 - ✅ Systems with **+10k active users**
