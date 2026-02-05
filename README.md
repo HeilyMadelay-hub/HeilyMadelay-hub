@@ -2,7 +2,7 @@
 
 ## 👋 Hi, I'm Heily
 
-**Backend Engineer** focused on scalable systems and applied AI.
+**Full Stack Engineer** focused on scalable systems and applied AI.
 
 I design production-ready APIs, clean architectures, and AI-powered systems that solve real business problems. I work with teams that value **quality, security, and reliable deployment**.
 
