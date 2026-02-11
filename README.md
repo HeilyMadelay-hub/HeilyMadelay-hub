@@ -88,7 +88,6 @@ Computer vision system with AI for real-time sign language recognition.
 
 ## 📈 Proven Impact
 
-- ✅ Systems with **+10k active users**
 - ✅ APIs with **99.9% uptime**
 - ✅ **Zero-downtime migrations**
 - ✅ **40% faster deployments** through CI/CD
