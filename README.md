@@ -42,7 +42,6 @@ Backend system supporting daily law firm operations.
 - Designed with **GDPR/LOPDGDD considerations**
 
 **Stack:** C# · .NET Core · Angular · PostgreSQL · Docker  
-→ View project | Private code available under NDA
 
 ---
 
