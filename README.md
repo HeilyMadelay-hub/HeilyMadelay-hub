@@ -1,106 +1,102 @@
-# 🚀 I build backend systems that scale without breaking
+# 🚀 Backend-focused developer building production-oriented systems
 
 ## 👋 Hi, I'm Heily
 
-**Backend-focused Full Stack Developer** building scalable APIs and AI-powered systems
+**Backend-focused Full Stack Developer** interested in scalable APIs, clean architectures, and AI-powered systems.
 
-I design production-ready APIs, clean architectures, and AI-powered systems that solve real business problems. I work with teams that value **quality, security, and reliable deployment**.
+I enjoy building systems designed for **real usage scenarios**, focusing on **maintainability, reliability, and clear architecture decisions**. I’m currently looking for my first professional engineering role where I can contribute, learn fast, and grow within a strong technical team.
 
 ---
 
 ## 🧠 What I do
 
-I build **backend systems that work in production**, not just locally:
+I build backend-centric projects that simulate **production-like environments and real business workflows**:
 
-- AI integration in real products (RAG, embeddings, LLMs)
-- Scalable REST APIs (Clean Architecture, DDD)
-- Zero-downtime database migrations
-- Process automation that saves hours of manual work
-- Real-time systems with WebSockets and concurrent transactions
+- AI integration in applications (RAG, embeddings, LLM APIs)
+- REST APIs using Clean Architecture principles
+- Database migrations designed to avoid downtime
+- Process automation tools
+- Real-time systems with WebSockets and concurrent operations
 
-**I don't build pretty prototypes. I build systems that handle real traffic.**
+My focus is not only making software work, but making it **understandable, maintainable, and deployable**.
 
 ---
 
 ## 🧩 How I work
 
-- I understand the business problem before writing code
-- I design architecture thinking about scalability and maintainability
-- I prioritize testing, documentation, and automated deployment
-- I iterate based on real feedback and metrics
+- I understand the problem before implementing solutions
+- I design systems thinking about long-term maintainability
+- I prioritize testing, documentation, and reproducible environments
+- I iterate based on feedback and measurable behavior
 
 ---
 
 ## 📂 Selected Projects
 
-### 🏛️ **Legal Firm Management System** (MVP in production)
-Backend system for daily law firm operations.
+### 🏛️ Legal Firm Management System (MVP in production)
 
-- ⏱️ **−70%** administrative time
-- 📄 Legal documents generated in **5 minutes**
-- 🔒 **GDPR/LOPDGDD** compliant
+Backend system supporting daily law firm operations.
 
-**Stack:** C# · .NET Core · Angular · PostgreSQL · Docker · Microservices
+- Administrative processes reduced by **~70%**
+- Legal documents generated in **minutes instead of hours**
+- Designed with **GDPR/LOPDGDD considerations**
 
-→ [View project](https://github.com/HeilyMadelay-hub/Legal_Firm_Management_System_Back) | *Private code available under NDA*
+**Stack:** C# · .NET Core · Angular · PostgreSQL · Docker  
+→ View project | Private code available under NDA
 
 ---
 
-### 🤖 **MentIA – AI Document Assistant**
+### 🤖 MentIA – AI Document Assistant
+
 Conversational AI platform for enterprise documents.
 
 - Vector search with ChromaDB
-- Real-time streaming via WebSockets
-- **<200ms** search latency
-- JWT security + rate limiting
+- Streaming responses via WebSockets
+- JWT authentication + rate limiting
 
-**Stack:** Python · FastAPI · Flutter Web · PostgreSQL · ChromaDB · Gemini AI
-
-→ [View project](https://github.com/HeilyMadelay-hub/TFG-MentIA) | [Video demo](https://www.youtube.com/watch?v=CyXpIo2UoJ4)
+**Stack:** Python · FastAPI · PostgreSQL · ChromaDB · Gemini AI
 
 ---
 
-### 🎫 **Real-Time Event Ticketing System**
+### 🎫 Real-Time Event Ticketing System
+
 REST API for ticket sales with overselling prevention.
 
 - MongoDB transactions + optimistic locking
-- Real-time notifications (Socket.io)
-- Background jobs for order expiration
+- Real-time notifications
+- Background expiration jobs
 
 **Stack:** Node.js · TypeScript · MongoDB · Docker
 
-→ [View project](https://github.com/HeilyMadelay-hub/Master-Proyects/tree/event-ticketing-api)
+---
+
+### 🧏‍♂️ Real-Time Sign Language Translator
+
+Computer-vision prototype for real-time sign recognition.
+
+- MediaPipe hand tracking
+- SignalR real-time communication
+- ML classification pipeline
+
+**Stack:** ASP.NET Core · SignalR · MediaPipe · TensorFlow.js · Python
 
 ---
 
-### 🧏‍♂️ **Real-Time Sign Language Translator**
-Computer vision system with AI for real-time sign language recognition.
+## 📈 Engineering Focus
 
-- **30-60 FPS** with MediaPipe Hands
-- **Sub-100ms latency** with SignalR
-- ML classification with Euclidean distance
-
-**Stack:** ASP.NET Core MVC · SignalR · MediaPipe · TensorFlow.js · Python · OpenCV
-
-→ [View project](https://github.com/HeilyMadelay-hub/Master-Proyects/tree/sign-language-translator)
-
----
-
-## 📈 Proven Impact
-
-- ✅ APIs with **99.9% uptime**
-- ✅ **Zero-downtime migrations**
-- ✅ **40% faster deployments** through CI/CD
-- ✅ Automation reducing processes from **hours to minutes**
+- API design and backend architecture
+- AI integration into applications
+- Real-time communication systems
+- Automation of manual workflows
+- Containerized development environments
 
 ---
 
 ## 💻 Tech Stack
 
 **Backend:** C#, .NET, Python, Node.js, TypeScript  
-**Databases:** PostgreSQL, MongoDB, SQL Server, ChromaDB  
-**AI & ML:** RAG pipelines, LangChain, OpenAI/Gemini APIs, ChromaDB vector search, MediaPipe, TensorFlow.js
-
+**Databases:** PostgreSQL, MongoDB, SQL Server  
+**AI & ML:** RAG pipelines, vector search, LLM APIs, MediaPipe, TensorFlow.js  
 **Real-Time:** WebSockets, SignalR, Socket.io  
 **DevOps:** Docker, AWS, Azure  
 **Frontend:** React, Angular
@@ -110,37 +106,22 @@ Computer vision system with AI for real-time sign language recognition.
 ## 🎓 Education
 
 **Master's in Full Stack Development & Cloud Architectures** — Tajamar (in progress)  
-**Higher Technician in Multi-Platform Application Development** — IES Vista Alegre (2023-2025)
+**Higher Technician in Multi-Platform Application Development** — IES Vista Alegre  
 
-### Certifications
-✅ **AWS Certified Solutions Architect – Associate** — The Experis Academy   
-✅ **Web Development with Python**
-
----
-
-## 📬 Let's connect
-
-📧 **heilymadelayajtan@icloud.com**  
-💼 **[LinkedIn](https://linkedin.com/in/heilymajtan)**  
-🐙 **[GitHub](https://github.com/HeilyMadelay-hub)**  
-📝 **[Medium](https://medium.com/@heilymadelayajtan)**  
-📱 **+34 640 35 92 33**
+**Certifications**
+- AWS Certified Solutions Architect – Associate (training program)
+- Web Development with Python
 
 ---
 
-## 💡 Looking for:
+## 💡 Looking for
 
-**Full Stack Engineer roles** (backend-focused) where code quality, product thinking, and real business impact matter.
+**Backend-focused Full Stack Engineer (Junior) roles** where I can:
 
-**Open to:**
-- 🌍 Remote teams
-- 🚀 Startups & scale-ups with strong engineering culture
-- 🏢 Large enterprises building complex, high-scale systems
-- ✈️ Relocation: I am fully available to relocate for the right opportunity.
+- Contribute to real products
+- Learn from experienced engineers
+- Work with scalable systems
+- Grow into backend architecture responsibilities
 
-**Available for:** Remote · Hybrid (Madrid) · On-site  · Relocation · Contract / Freelance
+Open to **remote, hybrid (Madrid), on-site, or relocation opportunities**.
 
----
-
-💬 Want to talk about backend architecture, AI in production, or scaling systems?
-Feel free to reach out.
