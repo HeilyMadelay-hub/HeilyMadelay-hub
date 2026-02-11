@@ -124,3 +124,10 @@ Computer-vision prototype for real-time sign recognition.
 
 Open to **remote, hybrid (Madrid), on-site, or relocation opportunities**.
 
+--- 
+## 📬 Let's connect
+📧 **heilymadelayajtan@icloud.com** 
+💼 **[LinkedIn](https://linkedin.com/in/heilymajtan)** 
+🐙 **[GitHub](https://github.com/HeilyMadelay-hub)** 
+📝 **[Medium](https://medium.com/@heilymadelayajtan)** 
+📱 **+34 640 35 92 33**
