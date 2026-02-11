@@ -43,6 +43,8 @@ Backend system supporting daily law firm operations.
 
 **Stack:** C# · .NET Core · Angular · PostgreSQL · Docker  
 
+→ [View project](https://github.com/HeilyMadelay-hub/Legal_Firm_Management_System_Back) | *Private code available under NDA*
+
 ---
 
 ### 🤖 MentIA – AI Document Assistant
@@ -54,6 +56,8 @@ Conversational AI platform for enterprise documents.
 - JWT authentication + rate limiting
 
 **Stack:** Python · FastAPI · PostgreSQL · ChromaDB · Gemini AI
+
+→ [View project](https://github.com/HeilyMadelay-hub/TFG-MentIA) | [Video demo](https://www.youtube.com/watch?v=CyXpIo2UoJ4)
 
 ---
 
@@ -67,6 +71,8 @@ REST API for ticket sales with overselling prevention.
 
 **Stack:** Node.js · TypeScript · MongoDB · Docker
 
+→ [View project](https://github.com/HeilyMadelay-hub/Master-Proyects/tree/event-ticketing-api)
+
 ---
 
 ### 🧏‍♂️ Real-Time Sign Language Translator
@@ -78,6 +84,8 @@ Computer-vision prototype for real-time sign recognition.
 - ML classification pipeline
 
 **Stack:** ASP.NET Core · SignalR · MediaPipe · TensorFlow.js · Python
+
+→ [View project](https://github.com/HeilyMadelay-hub/Master-Proyects/tree/sign-language-translator)
 
 ---
 
@@ -126,8 +134,9 @@ Open to **remote, hybrid (Madrid), on-site, or relocation opportunities**.
 
 --- 
 ## 📬 Let's connect
-📧 **heilymadelayajtan@icloud.com** 
-💼 **[LinkedIn](https://linkedin.com/in/heilymajtan)** 
-🐙 **[GitHub](https://github.com/HeilyMadelay-hub)** 
-📝 **[Medium](https://medium.com/@heilymadelayajtan)** 
-📱 **+34 640 35 92 33**
+
+- 📧 **heilymadelayajtan@icloud.com** 
+- 💼 **[LinkedIn](https://linkedin.com/in/heilymajtan)** 
+- 🐙 **[GitHub](https://github.com/HeilyMadelay-hub)** 
+- 📝 **[Medium](https://medium.com/@heilymadelayajtan)**
+- 📱 **+34 640 35 92 33**
