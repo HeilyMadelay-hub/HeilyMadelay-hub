@@ -138,5 +138,5 @@ Open to **remote, hybrid (Madrid), on-site, or relocation opportunities**.
 - 📧 **heilymadelayajtan@icloud.com** 
 - 💼 **[LinkedIn](https://linkedin.com/in/heilymajtan)** 
 - 🐙 **[GitHub](https://github.com/HeilyMadelay-hub)** 
-- 📝 **[Medium](https://medium.com/@heilymadelayajtan)**
+- 📝 **[Medium](https://medium.com/@madcodlife)**
 - 📱 **+34 640 35 92 33**
