@@ -24,11 +24,12 @@ This approach ensures systems are **reliable, scalable, and easy to maintain**, 
 ## 💻 Tech Stack
 
 ### ⚙️ Backend
+
 | Tecnología | Uso |
 |---|---|
-| 🔷 .NET / C# | Backend general, APIs, production-ready systems |
-| 🐍 Python | AI, automation, data processing |
-| 🟨 Node.js / TypeScript | Web backend, experimental projects / prototypes |
+| ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) C# | Backend general, APIs, production-ready systems |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | AI, automation, data processing |
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) | Web backend, experimental projects / prototypes |
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
@@ -36,19 +37,28 @@ This approach ensures systems are **reliable, scalable, and easy to maintain**, 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
 ### 🤖 AI & ML
-`RAG Pipelines` `Vector Search` `LLM APIs` `MediaPipe` `TensorFlow.js`
+![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-FF6F00?style=flat&logoColor=white)
+![Vector Search](https://img.shields.io/badge/Vector_Search-4A90D9?style=flat&logoColor=white)
+![LLM APIs](https://img.shields.io/badge/LLM_APIs-412991?style=flat&logo=openai&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat&logo=google&logoColor=white)
+![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 ### ⚡ Real-Time
-`WebSockets` `SignalR` `Socket.io`
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
 
 ### ☁️ DevOps / Cloud
-`Docker` `AWS` `Azure`
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
 ### 🎨 Frontend
+
 | Tecnología | Rol |
 |---|---|
-| ⚛️ React | Primary |
-| 🅰️ Angular | Secondary |
+| ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) | Primary |
+| ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) | Secondary |
 
 ---
 
