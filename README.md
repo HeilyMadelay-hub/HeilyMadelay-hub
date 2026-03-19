@@ -118,5 +118,4 @@ Computer-vision prototype for real-time sign recognition.
 
 - 📧 **heilymadelayajtan@icloud.com** 
 - 💼 **[LinkedIn](https://linkedin.com/in/heilymajtan)** 
-- 🐙 **[GitHub](https://github.com/HeilyMadelay-hub)** 
 - 📝 **[Medium](https://medium.com/@madcodlife)**
