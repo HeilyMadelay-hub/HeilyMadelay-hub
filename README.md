@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Heily
 
-I’m looking for **Junior Full Stack roles with a focus on backend and cloud**, where I can contribute to real projects, learn from experienced developers, and grow my skills in **.NET, Python, and cloud technologies (Azure & AWS)**.
+I’m looking for **Full Stack roles with a focus on backend and cloud**, where I can contribute to real projects, learn from experienced developers, and grow my skills in **.NET, Python, and cloud technologies (Azure & AWS)**.
 
 I'm open to **remote, hybrid (Madrid), on-site, or relocation opportunities**.
 
