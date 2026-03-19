@@ -6,18 +6,10 @@ I'm open to **remote, hybrid (Madrid), on-site, or relocation opportunities**.
 
 ---
 
-## 🧠 What I do & How I work
+## 🧠 What I do
 
-I build **backend-centric systems with production-ready workflows**, combining **AI, automation, and scalable architecture**. My goal is to create software that delivers **real business value** while being **functional, maintainable, and deployable**.
-
-I focus on:
-
-- **Understanding the problem before coding** to ensure solutions align with business needs  
-- **Designing clean architectures**: REST APIs, database migrations, process automation, and real-time systems with WebSockets and concurrent operations  
-- **Integrating AI and intelligent features**: RAG pipelines, embeddings, and LLM APIs  
-- **Ensuring quality and maintainability**: emphasizing testing, documentation, reproducible environments, and iterative improvements based on measurable feedback  
-
-This approach ensures systems are **reliable, scalable, and easy to maintain**, supporting long-term success and adaptability.
+I build **backend-centric systems that combine .NET, Python, and AI** — from **REST APIs and scalable architecture to RAG pipelines** and **real-time features.**
+I focus on **solutions** that are **production-ready, maintainable, and built to solve real problems.**
 
 ---
 
@@ -119,3 +111,4 @@ Computer-vision prototype for real-time sign recognition.
 - 📧 **heilymadelayajtan@icloud.com** 
 - 💼 **[LinkedIn](https://linkedin.com/in/heilymajtan)** 
 - 📝 **[Medium](https://medium.com/@madcodlife)**
+- 🐙 **[GitHub](https://github.com/HeilyMadelay-hub)**
