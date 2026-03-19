@@ -1,6 +1,8 @@
 ## 👋 Hi, I'm Heily
 
-I **build systems for real-world usage, focusing on maintainability, reliability, and clear architecture decisions**. I’m **seeking my first professional engineering role** where I can contribute, learn quickly, and grow within a strong technical team.
+I **build systems for real-world usage, focusing on maintainability, reliability, and clear architecture decisions**. I'm looking for **Junior Full Stack roles with a focus on backend and cloud**, where I can contribute to real projects, learn from experienced developers, and grow my skills in **.NET, Python, and cloud technologies (Azure & AWS)**.
+
+I'm open to **remote, hybrid (Madrid), on-site, or relocation opportunities**.
 
 ---
 
@@ -126,13 +128,6 @@ Computer-vision prototype for real-time sign recognition.
 **Certifications**
 - AWS Certified Solutions Architect – Associate (training program)
 - Web Development with Python
-
----
-
-## 💡 Looking for
-
-I'm looking for **Junior Full Stack roles with a focus on backend and cloud**, where I can contribute to real projects, learn from experienced developers, and grow my skills in .NET, Python, and cloud technologies (Azure & AWS).
-Open to **remote, hybrid (Madrid), on-site, or relocation opportunities**.
 
 --- 
 ## 📬 Let's connect
