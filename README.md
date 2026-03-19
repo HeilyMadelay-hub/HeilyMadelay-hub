@@ -27,7 +27,7 @@ This approach ensures systems are **reliable, scalable, and easy to maintain**, 
 
 | Tecnología | Uso |
 |---|---|
-| ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) C# | Backend general, APIs, production-ready systems |
+| ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) | Backend general, APIs, production-ready systems |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | AI, automation, data processing |
 | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) | Web backend, experimental projects / prototypes |
 
