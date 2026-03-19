@@ -25,7 +25,7 @@ This approach ensures systems are **reliable, scalable, and easy to maintain**, 
 
 ### ⚙️ Backend
 
-| Tecnología | Uso |
+| Technology | Use |
 |---|---|
 | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) | Backend general, APIs, production-ready systems |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) | AI, automation, data processing |
@@ -55,7 +55,7 @@ This approach ensures systems are **reliable, scalable, and easy to maintain**, 
 
 ### 🎨 Frontend
 
-| Tecnología | Rol |
+| Technology | Rol |
 |---|---|
 | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) | Primary |
 | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) | Secondary |
