@@ -93,8 +93,8 @@ Computer-vision prototype for real-time sign recognition.
 
 - API design and backend architecture
 - AI integration into applications
-- Real-time communication systems
-- Automation of manual workflows
+- Building real-time communication systems
+- Automation manual workflows
 - Containerized development environments
 
 ---
@@ -106,7 +106,7 @@ Computer-vision prototype for real-time sign recognition.
 **AI & ML:** RAG pipelines, vector search, LLM APIs, MediaPipe, TensorFlow.js  
 **Real-Time:** WebSockets, SignalR, Socket.io  
 **DevOps:** Docker, AWS, Azure  
-**Frontend:** React, Angular
+**Frontend:** React (primary), Angular (secondary)
 
 ---
 
@@ -123,7 +123,7 @@ Computer-vision prototype for real-time sign recognition.
 
 ## 💡 Looking for
 
-**Backend-focused Full Stack Engineer (Junior) roles** where I can:
+I'm looking for **Junior Full Stack / Backend-focused roles** where I can learn from experienced developers, contribute to projects, and grow my skills in .NET, Python, and cloud technologies.
 
 - Contribute to real products
 - Learn from experienced engineers
