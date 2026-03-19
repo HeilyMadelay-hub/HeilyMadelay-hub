@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Heily
 
-I enjoy building systems designed for **real usage scenarios**, focusing on **maintainability, reliability, and clear architecture decisions**. I’m currently looking for my first professional engineering role where I can contribute, learn fast, and grow within a strong technical team.
+I **build systems for real-world usage, focusing on maintainability, reliability, and clear architecture decisions**. I’m **seeking my first professional engineering role** where I can contribute, learn quickly, and grow within a strong technical team.
 
 ---
 
