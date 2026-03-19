@@ -76,8 +76,6 @@ Backend system supporting daily law firm operations.
 
 → [View project](https://github.com/HeilyMadelay-hub/Legal_Firm_Management_System_Back) | *Private code available under NDA*
 
----
-
 ### 🤖 MentIA – AI Document Assistant
 
 Conversational AI platform for enterprise documents.
@@ -90,8 +88,6 @@ Conversational AI platform for enterprise documents.
 
 → [View project](https://github.com/HeilyMadelay-hub/TFG-MentIA) | [Video demo](https://www.youtube.com/watch?v=CyXpIo2UoJ4)
 
----
-
 ### 🎫 Real-Time Event Ticketing System
 
 REST API for ticket sales with overselling prevention.
@@ -103,8 +99,6 @@ REST API for ticket sales with overselling prevention.
 **Stack:** Node.js/TypeScript · MongoDB · Docker
 
 → [View project](https://github.com/HeilyMadelay-hub/Master-Proyects/tree/event-ticketing-api)
-
----
 
 ### 🧏‍♂️ Real-Time Sign Language Translator
 
