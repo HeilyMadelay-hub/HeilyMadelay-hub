@@ -6,26 +6,40 @@ I'm open to **remote, hybrid (Madrid), on-site, or relocation opportunities**.
 
 ---
 
-## 🧠 What I do
+## 🧠 What I do & How I work
 
-I build backend-centric projects that simulate **production-like environments and real business workflows**:
+I build **backend-centric systems designed for real-world usage and production-ready workflows**, combining **AI, automation, and scalable architecture**. My goal is to create software that is **functional, maintainable, and deployable**, while delivering real business value.
 
-- AI integration in applications (RAG, embeddings, LLM APIs)
-- REST APIs using Clean Architecture principles
-- Database migrations designed to avoid downtime
-- Process automation tools
-- Real-time systems with WebSockets and concurrent operations
+I focus on:
 
-My focus is not only making software work, but making it **understandable, maintainable, and deployable**.
+- **Understanding the problem before coding** to ensure solutions align with business needs  
+- **Designing clean, production-ready architectures**: REST APIs, database migrations, process automation, and real-time systems with WebSockets and concurrent operations  
+- **Integrating AI and intelligent features**: RAG pipelines, embeddings, and LLM APIs  
+- **Ensuring quality and maintainability**: emphasizing testing, documentation, reproducible environments, and iterative improvements based on measurable feedback  
+
+My approach ensures that systems are **reliable, scalable, and easy to maintain**, supporting long-term success and adaptability.
 
 ---
 
-## 🧩 How I work
+## 💻 Tech Stack
 
-- I understand the problem before implementing solutions
-- I design systems thinking about long-term maintainability
-- I prioritize testing, documentation, and reproducible environments
-- I iterate based on feedback and measurable behavior
+**Backend:**
+
+- .NET / C# – Backend general, APIs, production-ready systems
+
+- Python – AI, automation, data processing
+
+- Node.js / TypeScript – web backend, experimental projects / prototypes
+
+**Databases:** PostgreSQL, MongoDB, SQL Server
+
+**AI & ML:** RAG pipelines, vector search, LLM APIs, MediaPipe, TensorFlow.js
+
+**Real-Time:** WebSockets, SignalR, Socket.io
+
+**DevOps / Cloud:** Docker, AWS, Azure
+
+**Frontend:** React (primary), Angular (secondary)
 
 ---
 
@@ -87,39 +101,6 @@ Computer-vision prototype for real-time sign recognition.
 
 ---
 
-## 💻 Tech Stack
-
-**Backend:**
-
-- .NET / C# – Backend general, APIs, production-ready systems
-
-- Python – AI, automation, data processing
-
-- Node.js / TypeScript – web backend, experimental projects / prototypes
-
-**Databases:** PostgreSQL, MongoDB, SQL Server
-
-**AI & ML:** RAG pipelines, vector search, LLM APIs, MediaPipe, TensorFlow.js
-
-**Real-Time:** WebSockets, SignalR, Socket.io
-
-**DevOps / Cloud:** Docker, AWS, Azure
-
-**Frontend:** React (primary), Angular (secondary)
-
----
-
-## 🎓 Education
-
-**Master's in Full Stack Development & Cloud Architectures** — Tajamar (Expected June 2026)
-
-**Higher Technician in Multi-Platform Application Development** — IES Vista Alegre  
-
-**Certifications**
-- AWS Certified Solutions Architect – Associate (training program)
-- Web Development with Python
-
---- 
 ## 📬 Let's connect
 
 - 📧 **heilymadelayajtan@icloud.com** 
