@@ -23,26 +23,26 @@ This approach ensures systems are **reliable, scalable, and easy to maintain**, 
 
 ## 💻 Tech Stack
 
-## ⚙️ Backend
+### ⚙️ Backend
 | Tecnología | Uso |
 |---|---|
 | 🔷 .NET / C# | Backend general, APIs, production-ready systems |
 | 🐍 Python | AI, automation, data processing |
 | 🟨 Node.js / TypeScript | Web backend, experimental projects / prototypes |
 
-## 🗄️ Databases
+### 🗄️ Databases
 `PostgreSQL` `MongoDB` `SQL Server`
 
-## 🤖 AI & ML
+### 🤖 AI & ML
 `RAG Pipelines` `Vector Search` `LLM APIs` `MediaPipe` `TensorFlow.js`
 
-## ⚡ Real-Time
+### ⚡ Real-Time
 `WebSockets` `SignalR` `Socket.io`
 
-## ☁️ DevOps / Cloud
+### ☁️ DevOps / Cloud
 `Docker` `AWS` `Azure`
 
-## 🎨 Frontend
+### 🎨 Frontend
 | Tecnología | Rol |
 |---|---|
 | ⚛️ React | Primary |
