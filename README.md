@@ -47,7 +47,7 @@ I focus on **solutions** that are **production-ready, maintainable, and built to
 
 ### 🎨 Frontend
 
-| Technology | Rol |
+| Technology | Role |
 |---|---|
 | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) | Primary |
 | ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) | Secondary |
