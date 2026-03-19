@@ -109,6 +109,7 @@ Computer-vision prototype for real-time sign recognition.
 ## 🎓 Education
 
 **Master's in Full Stack Development & Cloud Architectures** — Tajamar (Expected June 2026)
+
 **Higher Technician in Multi-Platform Application Development** — IES Vista Alegre  
 
 **Certifications**
