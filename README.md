@@ -87,16 +87,6 @@ Computer-vision prototype for real-time sign recognition.
 
 ---
 
-## 📈 Engineering Focus
-
-- API design and backend architecture
-- AI integration into applications
-- Building real-time communication systems
-- Automating manual workflows
-- Containerized development environments
-
----
-
 ## 💻 Tech Stack
 
 **Backend:**
