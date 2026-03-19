@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Heily
 
-I **build systems for real-world usage, focusing on maintainability, reliability, and clear architecture decisions**. I'm looking for **Junior Full Stack roles with a focus on backend and cloud**, where I can contribute to real projects, learn from experienced developers, and grow my skills in **.NET, Python, and cloud technologies (Azure & AWS)**.
+I’m looking for **Junior Full Stack roles with a focus on backend and cloud**, where I can contribute to real projects, learn from experienced developers, and grow my skills in **.NET, Python, and cloud technologies (Azure & AWS)**.
 
 I'm open to **remote, hybrid (Madrid), on-site, or relocation opportunities**.
 
@@ -8,16 +8,16 @@ I'm open to **remote, hybrid (Madrid), on-site, or relocation opportunities**.
 
 ## 🧠 What I do & How I work
 
-I build **backend-centric systems designed for real-world usage and production-ready workflows**, combining **AI, automation, and scalable architecture**. My goal is to create software that is **functional, maintainable, and deployable**, while delivering real business value.
+I build **backend-centric systems with production-ready workflows**, combining **AI, automation, and scalable architecture**. My goal is to create software that delivers **real business value** while being **functional, maintainable, and deployable**.
 
 I focus on:
 
 - **Understanding the problem before coding** to ensure solutions align with business needs  
-- **Designing clean, production-ready architectures**: REST APIs, database migrations, process automation, and real-time systems with WebSockets and concurrent operations  
+- **Designing clean architectures**: REST APIs, database migrations, process automation, and real-time systems with WebSockets and concurrent operations  
 - **Integrating AI and intelligent features**: RAG pipelines, embeddings, and LLM APIs  
 - **Ensuring quality and maintainability**: emphasizing testing, documentation, reproducible environments, and iterative improvements based on measurable feedback  
 
-My approach ensures that systems are **reliable, scalable, and easy to maintain**, supporting long-term success and adaptability.
+This approach ensures systems are **reliable, scalable, and easy to maintain**, supporting long-term success and adaptability.
 
 ---
 
