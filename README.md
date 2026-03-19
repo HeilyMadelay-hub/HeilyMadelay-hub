@@ -1,8 +1,4 @@
-# 🚀 Backend-focused developer building production-oriented systems
-
 ## 👋 Hi, I'm Heily
-
-**Backend-focused Full Stack Developer** interested in scalable APIs, clean architectures, and AI-powered systems.
 
 I enjoy building systems designed for **real usage scenarios**, focusing on **maintainability, reliability, and clear architecture decisions**. I’m currently looking for my first professional engineering role where I can contribute, learn fast, and grow within a strong technical team.
 
@@ -69,7 +65,7 @@ REST API for ticket sales with overselling prevention.
 - Real-time notifications
 - Background expiration jobs
 
-**Stack:** Node.js · TypeScript · MongoDB · Docker
+**Stack:** Node.js/TypeScript · MongoDB · Docker
 
 → [View project](https://github.com/HeilyMadelay-hub/Master-Proyects/tree/event-ticketing-api)
 
@@ -94,7 +90,7 @@ Computer-vision prototype for real-time sign recognition.
 - API design and backend architecture
 - AI integration into applications
 - Building real-time communication systems
-- Automation manual workflows
+- Automating manual workflows
 - Containerized development environments
 
 ---
@@ -112,7 +108,7 @@ Computer-vision prototype for real-time sign recognition.
 
 ## 🎓 Education
 
-**Master's in Full Stack Development & Cloud Architectures** — Tajamar (in progress)  
+**Master's in Full Stack Development & Cloud Architectures** — Tajamar (Expected June 2026)
 **Higher Technician in Multi-Platform Application Development** — IES Vista Alegre  
 
 **Certifications**
@@ -123,13 +119,7 @@ Computer-vision prototype for real-time sign recognition.
 
 ## 💡 Looking for
 
-I'm looking for **Junior Full Stack / Backend-focused roles** where I can learn from experienced developers, contribute to projects, and grow my skills in .NET, Python, and cloud technologies.
-
-- Contribute to real products
-- Learn from experienced engineers
-- Work with scalable systems
-- Grow into backend architecture responsibilities
-
+I'm looking for **Junior Full Stack roles with a focus on backend and cloud**, where I can contribute to real projects, learn from experienced developers, and grow my skills in .NET, Python, and cloud technologies (Azure & AWS).
 Open to **remote, hybrid (Madrid), on-site, or relocation opportunities**.
 
 --- 
