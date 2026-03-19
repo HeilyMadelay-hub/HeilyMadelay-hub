@@ -97,11 +97,22 @@ Computer-vision prototype for real-time sign recognition.
 
 ## 💻 Tech Stack
 
-**Backend:** C#, .NET, Python, Node.js, TypeScript  
-**Databases:** PostgreSQL, MongoDB, SQL Server  
-**AI & ML:** RAG pipelines, vector search, LLM APIs, MediaPipe, TensorFlow.js  
-**Real-Time:** WebSockets, SignalR, Socket.io  
-**DevOps:** Docker, AWS, Azure  
+**Backend:**
+
+- .NET / C# – Backend general, APIs, production-ready systems
+
+- Python – AI, automation, data processing
+
+- Node.js / TypeScript – web backend, experimental projects / prototypes
+
+**Databases:** PostgreSQL, MongoDB, SQL Server
+
+**AI & ML:** RAG pipelines, vector search, LLM APIs, MediaPipe, TensorFlow.js
+
+**Real-Time:** WebSockets, SignalR, Socket.io
+
+**DevOps / Cloud:** Docker, AWS, Azure
+
 **Frontend:** React (primary), Angular (secondary)
 
 ---
