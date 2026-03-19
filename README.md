@@ -31,7 +31,9 @@ This approach ensures systems are **reliable, scalable, and easy to maintain**, 
 | 🟨 Node.js / TypeScript | Web backend, experimental projects / prototypes |
 
 ### 🗄️ Databases
-`PostgreSQL` `MongoDB` `SQL Server`
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
 ### 🤖 AI & ML
 `RAG Pipelines` `Vector Search` `LLM APIs` `MediaPipe` `TensorFlow.js`
