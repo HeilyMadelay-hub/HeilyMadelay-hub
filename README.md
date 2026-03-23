@@ -46,8 +46,8 @@ I focus on **solutions** that are **production-ready, maintainable, and built to
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
 ### 🎨 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black): Primary
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white): Secondary
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 
 ---
 
