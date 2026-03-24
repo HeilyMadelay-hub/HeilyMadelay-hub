@@ -50,7 +50,7 @@ Prevented ticket overselling by implementing concurrency control and real-time u
 
 ---
 
-## 📬
+## 📬 Let's connect
 
 - 📧 **heilymadelayajtan@icloud.com** 
 - 💼 **[LinkedIn](https://linkedin.com/in/heilymajtan)** 
