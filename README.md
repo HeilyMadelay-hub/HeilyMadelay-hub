@@ -1,6 +1,10 @@
 ## 👋 Hi, I'm Heily
 
-**Full Stack Engineer (backend-focused)** building scalable APIs and automating data-intensive workflows with .NET and Python. Reduced AI model testing time by **30%** through backend optimizations. I design systems that reduce manual work, improve performance, and integrate AI where it adds measurable value.
+**Full Stack Engineer (backend-focused)** building scalable APIs and automating data-intensive workflows with .NET and Python. 
+
+Reduced AI model testing time by **30%** through backend optimizations. 
+
+I design systems that reduce manual work, improve performance, and integrate AI where it adds measurable value.
 
 **Open to remote, hybrid (Madrid), on-site, or relocation opportunities.**
 
