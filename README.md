@@ -49,7 +49,7 @@ Generated legal documents in **minutes instead of hours**.
 
 ### 🤖 MentIA – AI Document Assistant
 
-Built a backend system for document analysis using AI, enabling faster information retrieval and automated responses.
+Improved document search and response speed by implementing AI-powered backend processing.
 
 **Stack:** Python (FastAPI), PostgreSQL, ChromaDB  
 → [View project](https://github.com/HeilyMadelay-hub/TFG-MentIA) | [Video demo](https://www.youtube.com/watch?v=CyXpIo2UoJ4)
