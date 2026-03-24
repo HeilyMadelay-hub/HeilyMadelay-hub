@@ -12,11 +12,11 @@ I design systems that reduce manual work, improve performance, and integrate AI 
 
 ## 💻 Tech Stack
 
-**Backend:** .NET (C#)
-**Databases:** PostgreSQL, MongoDB, SQL Server  
-**Cloud:** Docker, Azure, AWS  
-**Frontend:** React (primary), Angular (secondary)  
-**Additional:** Node.js (TypeScript, prototyping), Python (FastAPI)  
+**Backend:** .NET (C#), Python (FastAPI)
+**Databases:** PostgreSQL, MongoDB, SQL Server
+**Cloud:** Docker, Azure, AWS
+**Frontend:** React, Angular
+**Additional:** Node.js (TypeScript, prototyping)
 
 ---
 
