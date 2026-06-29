@@ -20,36 +20,6 @@ I design systems that reduce manual work, improve performance, and integrate AI 
 
 ---
 
-## 📂 Selected Projects
-
-### 🏛️ Legal Firm Management System (Production)
-
-Reduced administrative workload by **~70%** by building a backend system for law firm operations.  
-Generated legal documents in **minutes instead of hours**.
-
-**Stack:** .NET (C#), Angular, PostgreSQL, Docker  
-→ [View project](https://github.com/HeilyMadelay-hub/Legal_Firm_Management_System_Back) | *Private code available under NDA*
-
----
-
-### 🤖 MentIA – AI Document Assistant
-
-Improved document retrieval and response time through AI-powered backend optimization.
-
-**Stack:** Python (FastAPI), PostgreSQL, ChromaDB  
-→ [View project](https://github.com/HeilyMadelay-hub/TFG-MentIA) | [Video demo](https://www.youtube.com/watch?v=CyXpIo2UoJ4)
-
----
-
-### 🎫 Real-Time Event Ticketing System
-
-Prevented ticket overselling by implementing concurrency control and real-time updates.
-
-**Stack:** Node.js (TypeScript), MongoDB, Docker  
-→ [View project](https://github.com/HeilyMadelay-hub/Master-Proyects/tree/event-ticketing-api)
-
----
-
 ## 📬 Let's connect
 
 - 📧 **heilymadelayajtan@icloud.com** 
