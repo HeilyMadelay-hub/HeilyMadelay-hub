@@ -1,8 +1,8 @@
 # Hi, I'm Heily 👋
 
-Backend-focused Full Stack Developer building cloud-native applications with **Java, .NET, Python, and Angular**.
+**Backend-focused Full Stack Developer currently working at NETCheck, building enterprise software with Java and Spring Boot. Previously, I developed AI-powered applications, backend systems, and automation solutions using .NET, Python, and Angular.**
 
-I design scalable APIs, automate complex workflows, and build AI-powered solutions that deliver measurable business impact.
+I design scalable APIs, automate complex workflows, and build cloud-native, AI-powered solutions that deliver measurable business impact.
 
 ## 🚀 Impact
 
@@ -35,4 +35,3 @@ Azure • AWS • Docker
 - 📧 **heilymadelayajtan@icloud.com** 
 - 💼 **[LinkedIn](https://linkedin.com/in/heilymajtan)** 
 - 📝 **[Medium](https://medium.com/@madcodlife)**
-- 🐙 **[GitHub](https://github.com/HeilyMadelay-hub)**
