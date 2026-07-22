@@ -1,22 +1,32 @@
-## 👋 Hi, I'm Heily
+# Hi, I'm Heily 👋
 
-**Full Stack Engineer (backend-focused)** building scalable APIs and automating data-intensive workflows with .NET and Python. 
+Backend-focused Full Stack Developer building cloud-native applications with **Java, .NET, Python, and Angular**.
 
-Reduced AI model testing time by **30%** through backend optimizations. 
+I design scalable APIs, automate complex workflows, and build AI-powered solutions that deliver measurable business impact.
 
-I design systems that reduce manual work, improve performance, and integrate AI where it adds measurable value.
+## 🚀 Impact
 
-**Open to remote, hybrid (Madrid), on-site, or relocation opportunities.**
-
----
+- Reduced AI model testing time by **30%** through backend optimizations.
+- Migrated application databases from **SQLite to PostgreSQL/MySQL** with **zero data loss**.
+- Automated legal data analysis across **70+ provinces**, eliminating hours of manual work.
+- Reduced development environment setup time by **70%** by creating onboarding documentation for three repositories.
 
 ## 💻 Tech Stack
 
-- **Backend:** .NET (C#), Python (FastAPI).
-- **Databases:** PostgreSQL, MongoDB, SQL Server
-- **Cloud:** Docker, Azure, AWS
-- **Frontend:** React, Angular
-- **Additional:** Node.js (TypeScript, prototyping)
+**Backend**  
+Java • Spring Boot • .NET (C#) • Python (FastAPI)
+
+**Frontend**  
+Angular • React • TypeScript
+
+**Databases**  
+PostgreSQL • MySQL • SQL Server
+
+**AI & Automation**  
+OpenAI API • ChromaDB • Ollama • OCR • RAG
+
+**Cloud & DevOps**  
+Azure • AWS • Docker
 
 ---
 
